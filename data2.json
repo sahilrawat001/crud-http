@@ -1,0 +1,27 @@
+[
+    {
+        "name": "dummy1",
+        "age": 12,
+        "mail": "dummy1@gmail.com"
+    },
+    {
+        "name": "dummy2",
+        "age": 22,
+        "mail": "dummy2@gmail.com"
+    },
+    {
+        "name": "dummy3",
+        "age": 16,
+        "mail": "dummy3@gmail.com"
+    },
+    {
+        "name": "dummy4",
+        "age": 18,
+        "mail": "dummy4@gmail.com"
+    },
+    {
+        "name": "dummy4",
+        "age": 26,
+        "mail": "dumm4@gmail.com"
+    }
+]
